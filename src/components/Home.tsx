@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Batman from '../assets/Batman2.png'
 import {HiArrowNarrowRight} from 'react-icons/hi'
 function Home() {

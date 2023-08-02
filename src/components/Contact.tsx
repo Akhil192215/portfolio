@@ -1,9 +1,9 @@
-import React from "react";
+
 
 const Contact = () => {
   return (
-    <div name="contact" className='w-full  h-screen bg-gradient-to-b from-black via-[black] to-yellow-950'>
-      <div className="flex flex-col justify-center max-w-screen p-4 h-full ">
+    <div   className='w-full  h-screen bg-gradient-to-b from-black via-[black] to-yellow-950'>
+      <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full text-secondary">
         <div className=" pb-8">
           <p className=" text-[#f2ab45] text-4xl font-bold border-b-4 inline border-secondary  ">Contact</p>
           <p className="py-6 text-secondary">Submit the form below to get in touch with me</p>
@@ -24,7 +24,7 @@ const Contact = () => {
             />
             <textarea
               name="message"
-              rows="10"
+            rows={10}
               placeholder="Enter your message"
               className="p-2 bg-transparent border-2 rounded-md text-secondary focus:outline-none"
             ></textarea>
