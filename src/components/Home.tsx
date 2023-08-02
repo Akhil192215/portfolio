@@ -13,9 +13,10 @@ function Home() {
           I'm a Full Stack Developer
         </h2>
         <p className=" text-[#888888] py-4 max-w-md">
-          I have 8 years of experience building and desgining software.
-          Currently, I love to work on web application using technologies like
-          React, Tailwind, Next JS and GraphQL.
+        I am Akhil S Poovathinkal, a passionate full-stack developer
+         with a focus on web application development. My expertise lies in working with 
+         technologies such as React, Tailwind, Express, and MongoDB
+         for software design and implementation.
         </p>
         <div>
         
